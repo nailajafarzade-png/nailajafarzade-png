@@ -9,6 +9,11 @@ I'm passionate about software development and currently focusing on **Java, Spri
 I also enjoy exploring frontend technologies and building full-stack projects.
 
 ### 🚀 Currently Learning
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,html,css,postgresql,redis,docker,git,github" />
+</p>
 
 * ☕ Java & Spring Boot
 * 🌐 JavaScript & Node.js
