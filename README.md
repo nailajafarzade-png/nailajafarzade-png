@@ -20,12 +20,12 @@
 
 ### 🚀 Currently Learning
 
-- ☕ **Java & Spring Boot** — modular monolith architecture, REST API design
-- 🐍 **Python** — backend scripting and data processing
-- 🌐 **JavaScript & Node.js**
-- 🗄️ **PostgreSQL & Redis**
-- 🐳 **Docker**
-- 🎨 **HTML & CSS**
+* ☕ **Java & Spring Boot** — modular monolith architecture, REST API design
+* 🐍 **Python** — backend scripting and data processing
+* 🌐 **JavaScript & Node.js**
+* 🗄️ **PostgreSQL & Redis**
+* 🐳 **Docker**
+* 🎨 **HTML & CSS**
 
 ### 🛠️ Tech Stack
 
@@ -37,11 +37,16 @@
 
 ### 📌 Featured Projects
 
-#### 💰 [MoneyQuest](https://github.com/your-username/moneyquest)
+#### 💰 [MoneyQuest](https://github.com/nailajafarzade-png/moneyquest-microservices)
+
 A gamified finance application built with a microservices architecture.
+
 **Technologies:** Java · Spring Boot · PostgreSQL · Redis · RabbitMQ · Docker
 
+---
+
 #### 🐍 Contribution Snake
+
 A fun project that visualizes my GitHub contribution graph as a snake game.
 
 ---
@@ -49,12 +54,12 @@ A fun project that visualizes my GitHub contribution graph as a snake game.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nailajafarzade-png&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailajafarzade-png&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=nailajafarzade-png&hide_border=true" />
 </p>
 
 ---
@@ -71,5 +76,5 @@ A fun project that visualizes my GitHub contribution graph as a snake game.
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/YOUR-USERNAME">YOUR-USERNAME</a></i>
+  <i>⭐️ From <a href="https://github.com/nailajafarzade-png">nailajafarzade-png</a></i>
 </p>
