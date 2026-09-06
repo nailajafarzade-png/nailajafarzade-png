@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Naila!
 
-<!--
-**nailajafarzade-png/nailajafarzade-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student | 💻 Java Backend Developer
 
-Here are some ideas to get you started:
+I'm passionate about software development and currently focusing on **Java, Spring Boot, and backend development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also enjoy exploring frontend technologies and building full-stack projects.
+
+### 🚀 Currently Learning
+
+* ☕ Java & Spring Boot
+* 🌐 JavaScript & Node.js
+* 🗄️ PostgreSQL & Redis
+* 🐳 Docker
+* 🎨 HTML & CSS
+
+### 📌 Featured Projects
+
+* 💰 **MoneyQuest** — Gamified Finance Application
+* ✈️ **Voyage** — AI-powered Travel Planner
