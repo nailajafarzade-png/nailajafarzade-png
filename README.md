@@ -45,7 +45,7 @@ A gamified finance application built with a microservices architecture.
 
 ---
 
-#### 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 A fun project that visualizes my GitHub contribution graph as a snake game.
 
@@ -54,13 +54,10 @@ A fun project that visualizes my GitHub contribution graph as a snake game.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nailajafarzade-png&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nailajafarzade-png&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="500" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nailajafarzade-png&hide_border=true" width="500" />
-</p>
-
+---
 
 ### 📫 Connect With Me
 
