@@ -10,6 +10,11 @@ I also enjoy exploring frontend technologies and building full-stack projects.
 
 ### 🚀 Currently Learning
 ### 🛠️ Tech Stack
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nailajafarzade-png&show_icons=true&theme=transparent&hide_border=true" />
+</p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,html,css,postgresql,redis,docker,git,github" />
