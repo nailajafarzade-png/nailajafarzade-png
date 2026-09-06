@@ -54,15 +54,13 @@ A fun project that visualizes my GitHub contribution graph as a snake game.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nailajafarzade-png&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailajafarzade-png&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nailajafarzade-png&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nailajafarzade-png&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=nailajafarzade-png&hide_border=true" width="500" />
 </p>
 
----
 
 ### 📫 Connect With Me
 
