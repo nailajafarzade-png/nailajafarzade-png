@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Naila!
 
-🎓 IT Student | 💻 Java Backend Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;IT+Student;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
 I'm passionate about software development and currently focusing on **Java, Spring Boot, and backend development**.
 
