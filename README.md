@@ -1,65 +1,60 @@
-# 👋 Hi, I'm Nailə!
+<h1 align="center">Hi, I'm Nailə 👋</h1>
+
+<h3 align="center">Java Backend Developer | Python Developer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;IT+Student;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
+  Passionate about software development — specializing in Java, Spring Boot, and backend architecture, while also working with Python and full-stack projects.
 </p>
 
-I'm passionate about software development and currently focusing on **Java, Spring Boot, and backend development**.
-
-I also enjoy exploring frontend technologies and building full-stack projects.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
 ### 🚀 Currently Learning
 
-* ☕ Java & Spring Boot
-* 🌐 JavaScript & Node.js
-* 🗄️ PostgreSQL & Redis
-* 🐳 Docker
-* 🎨 HTML & CSS
-
----
+- ☕ **Java & Spring Boot** — modular monolith architecture, REST API design
+- 🐍 **Python** — backend scripting and data processing
+- 🌐 **JavaScript & Node.js**
+- 🗄️ **PostgreSQL & Redis**
+- 🐳 **Docker**
+- 🎨 **HTML & CSS**
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,html,css,postgresql,redis,docker,git,github" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nailajafarzade-png&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=nailajafarzade-png&theme=transparent&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,nodejs,html,css,postgres,redis,docker,git,github" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-#### 💰 MoneyQuest
-
+#### 💰 [MoneyQuest](https://github.com/your-username/moneyquest)
 A gamified finance application built with a microservices architecture.
+**Technologies:** Java · Spring Boot · PostgreSQL · Redis · RabbitMQ · Docker
 
-**Technologies:** Java, Spring Boot, PostgreSQL, Redis, RabbitMQ, Docker
-
-#### ✈️ Voyage
-
-An AI-powered travel planning application designed to help users create personalized travel plans.
-
-**Technologies:** Node.js, JavaScript, AI, HTML, CSS
+#### 🐍 Contribution Snake
+A fun project that visualizes my GitHub contribution graph as a snake game.
 
 ---
 
-### 🐍 Contribution Snake
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&hide_border=true" />
 </p>
 
 ---
@@ -67,16 +62,14 @@ An AI-powered travel planning application designed to help users create personal
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/nailajafarzade-png">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  ✨ Thanks for visiting my profile!
+  <i>⭐️ From <a href="https://github.com/YOUR-USERNAME">YOUR-USERNAME</a></i>
 </p>
