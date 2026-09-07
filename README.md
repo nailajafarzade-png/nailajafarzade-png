@@ -41,20 +41,15 @@
 A gamified finance application built with a microservices architecture.
 **Technologies:** Java · Spring Boot · PostgreSQL · Redis · RabbitMQ · Docker
 
-#### 🐍 Contribution Snake
-A fun project that visualizes my GitHub contribution graph as a snake game.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nailajafarzade-png&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailajafarzade-png&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nailajafarzade-png&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailajafarzade-png&layout=compact&hide_border=true&theme=dark&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nailajafarzade-png&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=nailajafarzade-png&hide_border=true&theme=dark&background=0D1117" />
 </p>
 
 ---
