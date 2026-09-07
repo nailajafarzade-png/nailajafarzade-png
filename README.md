@@ -20,12 +20,12 @@
 
 ### 🚀 Currently Learning
 
-* ☕ **Java & Spring Boot** — modular monolith architecture, REST API design
-* 🐍 **Python** — backend scripting and data processing
-* 🌐 **JavaScript & Node.js**
-* 🗄️ **PostgreSQL & Redis**
-* 🐳 **Docker**
-* 🎨 **HTML & CSS**
+- ☕ **Java & Spring Boot** — modular monolith architecture, REST API design
+- 🐍 **Python** — backend scripting and data processing
+- 🌐 **JavaScript & Node.js**
+- 🗄️ **PostgreSQL & Redis**
+- 🐳 **Docker**
+- 🎨 **HTML & CSS**
 
 ### 🛠️ Tech Stack
 
@@ -38,15 +38,10 @@
 ### 📌 Featured Projects
 
 #### 💰 [MoneyQuest](https://github.com/nailajafarzade-png/moneyquest-microservices)
-
 A gamified finance application built with a microservices architecture.
-
 **Technologies:** Java · Spring Boot · PostgreSQL · Redis · RabbitMQ · Docker
 
----
-
-### 🐍 Contribution Snake
-
+#### 🐍 Contribution Snake
 A fun project that visualizes my GitHub contribution graph as a snake game.
 
 ---
@@ -54,7 +49,12 @@ A fun project that visualizes my GitHub contribution graph as a snake game.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nailajafarzade-png&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="500" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nailajafarzade-png&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailajafarzade-png&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nailajafarzade-png&hide_border=true" />
 </p>
 
 ---
@@ -62,10 +62,10 @@ A fun project that visualizes my GitHub contribution graph as a snake game.
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/naila-jafarzade-589a5338b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:nailajafarzade@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
