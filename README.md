@@ -44,25 +44,7 @@ A gamified finance application built with a microservices architecture.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nailajafarzade-png&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailajafarzade-png&layout=compact&hide_border=true&theme=dark&bg_color=0d1117" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=nailajafarzade-png&hide_border=true&theme=dark&background=0D1117" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/naila-jafarzade-589a5338b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nailajafarzade@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
